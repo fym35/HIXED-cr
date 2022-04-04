@@ -1,2 +1,3 @@
-# HIXED
-Kinda survival style game about MUSHROOMS becuase MUSHROOMS
+# HIXED Legacy code
+archival repo for hixed 2021 legacy code
+
