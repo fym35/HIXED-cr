@@ -8,4 +8,6 @@ In branches
   - legacy-2021
      Archived original code from somewhere around mid-2021, likely  older than 1.1
      Unfortunately cannot be open-licensed due to licensing issues
+
+    <br>
 Sources between these branches can be considered lost media as there was no VCS on the project for some time
